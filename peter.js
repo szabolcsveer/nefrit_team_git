@@ -1,3 +1,3 @@
 function future() {
-    console.log('crabs');
+    console.log('chinese crabs');
 }
