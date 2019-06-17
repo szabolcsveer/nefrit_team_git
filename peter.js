@@ -1,6 +1,6 @@
 'use strict';
 
-function future(x) {
-    console.log(`My horoscope sign is ${x}.`);
+function future(x, y) {
+    console.log(`My horoscope sign is ${x} and chinese horoscope is ${y}.`);
 }
-future('crabs');
+future('crabs', 'dog');
