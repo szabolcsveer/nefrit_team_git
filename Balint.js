@@ -1,3 +1,6 @@
-function count(){
-  console.log('My age is 29...kinda');
+function count(x){
+  console.log(`My age is ${x}...kinda`);
 }
+
+count(29);
+
