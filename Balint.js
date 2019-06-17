@@ -1,6 +1,6 @@
-function count(x){
-  console.log(`My age is ${x}...kinda`);
+function count(month){
+  console.log(`I was born in the ${month}th month.`);
 }
 
-count(29);
+count(11);
 
