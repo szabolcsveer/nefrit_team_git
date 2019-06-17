@@ -1,4 +1,5 @@
 let cheer = () => {
     let teamName = 'nefrit';
-    console.log(teamName)
-}
+    let oneParamater = "teh best team";
+    console.log(teamName + ' ' + oneParamater);
+};
