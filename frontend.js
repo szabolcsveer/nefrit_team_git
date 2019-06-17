@@ -1,4 +1,4 @@
 let cheer = () => {
-    let teamName = 'nefrit';
-    console.log(teamName)
+    let language = 'javascript';
+    console.log(language)
 }
