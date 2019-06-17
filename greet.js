@@ -1,5 +1,5 @@
-function Greet(saysomething){
-  console.log(saysomething);
+function Greet(saysomething) {
+    console.log(saysomething);
 }
 
-Greet("Hello Szabi");
+Greet("Greetings!");
